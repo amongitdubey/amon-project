@@ -23,3 +23,9 @@ public class Lab1 {//class
         System.out.println("This is a String " + myFloatNum);
     }//main
 }
+
+    /* Comment 
+        with 
+        Multiple 
+        Line
+    */
